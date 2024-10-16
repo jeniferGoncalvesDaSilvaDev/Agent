@@ -1,0 +1,1 @@
+projeto feito em conjunto do aquecimento ai experience. O objetivo era fazer agentes de ia usando crew ai para a navegação de buscas na web de maneira automática e langchain para suporte de LLM's e gerenciamento de agentes 
