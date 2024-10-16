@@ -56,6 +56,7 @@ reviewer = Agent(
 
 # Instanciar o modelo GPT
 # Instanciar o modelo GPT
+#usando Gemini ai 
 
 OpenAIGPT4Mini = ChatOpenAI(
     model="gpt-4-min"
